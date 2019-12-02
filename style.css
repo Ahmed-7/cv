@@ -1,0 +1,38 @@
+cell-1{         /* Unvisited links */
+       /* Visited links */
+  a:hover { background: yellow;}  /* Hovered links */
+  a:active { color: red; }         /* Active links */
+
+}
+#cell-2{
+  a:link { color: blue; }          /* Unvisited links */
+  a:visited { color: purple; }     /* Visited links */
+  a:hover { background: yellow; }  /* Hovered links */
+  a:active { color: red; }         /* Active links */
+
+}
+#cell-3{
+  a:link { color: blue; }          /* Unvisited links */
+  a:visited { color: purple; }     /* Visited links */
+  a:hover { background: yellow; }  /* Hovered links */
+  a:active { color: red; }         /* Active links */
+
+}
+#cell-4{
+          /* Unvisited links */
+     /* Visited links */
+  a:hover { background: yellow; }  /* Hovered links */
+           /* Active links */
+
+}
+hr{
+  border-style: dotted;
+  border-top-style: none;
+  border-width: 5PX;
+  width: 30%;
+  border-color: #dedef0;
+
+}
+h1,h2{
+  color: #00918e;
+}
